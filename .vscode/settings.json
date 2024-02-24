@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.s": "gas",
+        "a.out.h": "c"
+    }
+}
